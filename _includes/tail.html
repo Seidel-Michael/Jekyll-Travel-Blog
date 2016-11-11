@@ -1,7 +1,58 @@
 <!-- JavaScript
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<script src="/javascripts/bootstrap.min.js"></script>
 <script src="/javascripts/jquery-3.1.1.min.js"></script>
+<script src="/javascripts/bootstrap.min.js"></script>
+
+
+<script>
+    (function() {
+
+      var win = $(window);
+
+      win.resize(function() {
+
+        var win_w = win.width(),
+          win_h = win.height(),
+          $bg = $("#bg");
+
+        var available = [
+          3220
+        ];
+
+        var current = $bg.attr('src').match(/([0-9]+)/) ? RegExp.$1 : null;
+
+        if (!current || ((current < win_w) && (current < available[available.length - 1]))) {
+
+          var chosen = available[available.length - 1];
+
+          for (var i = 0; i < available.length; i++) {
+            if (available[i] >= win_w) {
+              chosen = available[i];
+              break;
+            }
+          }
+
+          $bg.attr('src', '/images/bg/' + chosen + '.png');
+
+        }
+
+        // Determine whether width or height should be 100%
+        if ((win_w / win_h) < ($bg.width() / $bg.height())) {
+          $bg.css({
+            height: '100%',
+            width: 'auto'
+          });
+        } else {
+          $bg.css({
+            width: '100%',
+            height: 'auto'
+          });
+        }
+
+      }).resize();
+
+    })(jQuery);
+  </script>
 </body>
 
 </html>
