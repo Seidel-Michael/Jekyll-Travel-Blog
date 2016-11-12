@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 copyright: (C) 2016 - Michael Seidel
+navbar-title: Michael in Neuseeland
 
 
 
