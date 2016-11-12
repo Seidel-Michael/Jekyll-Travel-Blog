@@ -1,0 +1,43 @@
+$footer-height: 50px;
+$container-margin: 20px;
+$container-color: rgba( white, .93 );
+$design-seperator-color: $gray-light;
+$footer-copyright-color: $gray-light;
+
+html, body {
+    height: 100%;
+}
+
+body{
+    padding-bottom: $footer-height+$container-margin;
+    padding-top: 20px;
+}
+
+.main-container {
+    display:block;
+    overflow:auto;
+    background: $container-color;
+    margin-bottom: $footer-height+$container-margin;
+    height: auto;
+    min-height: 100% !important;
+
+}
+
+.footer
+{
+    background: $container-color;
+    margin-top: -($footer-height+$container-margin);
+    height: $footer-height;
+    margin-bottom: $container-margin;
+}
+
+.footer > hr
+{
+        margin-bottom: 5px;
+        border-color: $design-seperator-color;
+}
+
+.copyright
+{
+    color: $footer-copyright-color;
+}

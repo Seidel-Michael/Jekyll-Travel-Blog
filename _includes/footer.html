@@ -1,6 +1,13 @@
 </div>
 <footer>
-    <div class="container" style="background: red; margin-top:-70px; height: 50px; margin-bottom: 20px;">
-        <div>ABC</div>
+    <div class="container footer">
+        <hr>
+        <div style="display:inline-block;" class="copyright"><b>{{ site.copyright }}</b></div>
+        <div class="pull-right" style="display:inline-block;">
+            {% assign pages=site.pages | where_exp:"item", "item.footer-menu > 0" | sort: "footer-menu" %} {% for my_page
+            in pages %} {% if my_page.title %}
+            <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a><br/> {% endif
+            %} {% endfor %}
+        </div>
     </div>
 </footer>
