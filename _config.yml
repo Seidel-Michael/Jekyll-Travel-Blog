@@ -35,7 +35,7 @@ translation:
 
 
 picture:
-  source: "_gallery/"
+  source: "gallery/"
   output: "gallery"
   markup: "picture"
   presets:
@@ -47,6 +47,15 @@ picture:
       source_default: 
         width: "500"
 
+
+gallerytag:
+    magick_lib: mini               # choose this if you use mini_magick
+    source_dir: gallery
+    destination_dir: gallery/thumbs
+    thumb_width: 150
+    thumb_height: 150
+    columns: 3                     # set to 0 and a <ul> list will be generated
+    custom_attribute_name: data-lightbox
 
 # Build settings
 markdown: kramdown
