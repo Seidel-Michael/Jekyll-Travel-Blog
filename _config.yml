@@ -52,9 +52,9 @@ gallerytag:
     magick_lib: mini               # choose this if you use mini_magick
     source_dir: gallery
     destination_dir: gallery/thumbs
-    thumb_width: 150
-    thumb_height: 150
-    columns: 3                     # set to 0 and a <ul> list will be generated
+    thumb_width: 230
+    thumb_height: 153
+    columns: 99                     # set to 0 and a <ul> list will be generated
     custom_attribute_name: data-lightbox
 
 # Build settings
