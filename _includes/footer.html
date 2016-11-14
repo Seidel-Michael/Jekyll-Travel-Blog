@@ -6,8 +6,12 @@
         <div class="pull-right" style="display:inline-block;">
             {% assign pages=site.pages | where_exp:"item", "item.footer-menu > 0" | sort: "footer-menu" %} {% for my_page
             in pages %} {% if my_page.title %}
-            <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a><br/> {% endif
+            <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a> {% endif
             %} {% endfor %}
+
+            {% if site.rss %}
+            <a href="{{ site.rss | prepend: site.baseurl }}">RSS</a><br/> {% endif %}
+            
         </div>
     </div>
 </footer>
