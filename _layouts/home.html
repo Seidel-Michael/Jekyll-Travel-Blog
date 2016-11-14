@@ -13,7 +13,7 @@ layout: default
         {% picture post-thumbnail {{ post.thumbnail }} %}
     </div>
     <div class="col-sm-9">
-        <p>{{ post.excerpt }}</p>
+        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
         <p><a href="{{ post.url | relative_url }}" class="btn btn-primary btn-md">{{ site.translation["read-more"] }}</a></p>
         <p>{{ post.date | date: "%-d. %b %Y" }}</p>
     </div>
@@ -24,7 +24,7 @@ layout: default
 </div>
 <div class="row">
     <div class="col-sm-12">
-        <p>{{ post.excerpt }}</p>
+        <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
         <p><a href="{{ post.url | relative_url }}" class="btn btn-primary btn-md">{{ site.translation["read-more"] }}</a></p>
         <p>{{ post.date | date: "%-d. %b %Y" }}</p>
     </div>

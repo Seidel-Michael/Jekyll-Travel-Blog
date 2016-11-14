@@ -46,6 +46,13 @@ picture:
         itemprop: "image"
       source_default: 
         width: "500"
+    default:
+      ppi: [1]
+      attr:
+        class: "img-responsive img-thumbnail"
+        itemprop: "image"
+      source_default: 
+        width: "960"
 
 
 gallerytag:
