@@ -41,3 +41,31 @@ body{
 {
     color: $footer-copyright-color;
 }
+
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+
+
+@media (max-width: 768px) {
+    .hide-small {
+        display: none;
+    }
+
+}
+
+@media (min-width: 768px) {
+    .hide-large {
+        display: none;
+    }
+
+}

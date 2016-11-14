@@ -2,7 +2,8 @@
     <img id="bg" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" style="position: fixed; left: 0; top: 0; z-index:-1;"
     />
     <div class="container main-container">
-        <div style="text-align:center;"><img src="/images/header.png" style="height:100px;"></div>
+        <div style="text-align:center;"><img class="hide-small" src="{{ site.header-image }}" style="height:{{ site.header-image-height }};"></div>
+        <hr class="hide-small" style="margin-bottom: 0px;">
         <nav class="navbar navbar-default">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -13,25 +14,16 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-                    <a class="navbar-brand" href="#">{{ site.navbar-title }}</a>
+                    <img class="hide-large" src="{{ site.header-image }}" style="height:{{ site.header-image-height-small }};">
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="#">Action</a></li>
-                                <li><a href="#">Another action</a></li>
-                                <li><a href="#">Something else here</a></li>
-                                <li role="separator" class="divider"></li>
-                                <li class="dropdown-header">Nav header</li>
-                                <li><a href="#">Separated link</a></li>
-                                <li><a href="#">One more separated link</a></li>
-                            </ul>
-                        </li>
+                        {% assign pages=site.pages | where_exp:"item", "item.menu > 0" | sort: "menu" %} {% for my_page in pages %} {% if my_page.title
+                        %} {% if my_page.url == page.url %}
+                        <li class="active"><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+                        {% else %}
+                        <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+                        {% endif %} {% endif %} {% endfor %}
                     </ul>
                 </div>
                 <!--/.nav-collapse -->
