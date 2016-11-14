@@ -3,6 +3,8 @@ _site
 .sass-cache
 .jekyll-metadata
 
+# Gallery
+gallery
 
 # Windows image file caches
 Thumbs.db
