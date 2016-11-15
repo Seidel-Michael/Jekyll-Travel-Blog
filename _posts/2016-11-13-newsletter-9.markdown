@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: [post, print]
 title:  "Neuseeland #9 – 4 Schwaben in Neuseeland"
 date:   2016-11-14 16:00:00 +1200
 categories: neuseeland

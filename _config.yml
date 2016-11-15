@@ -63,6 +63,10 @@ gallerytag:
     columns: 99                     # set to 0 and a <ul> list will be generated
     custom_attribute_name: data-lightbox
 
+collections:
+  prints:
+    output: true
+
 # Build settings
 markdown: kramdown
 theme: minima
