@@ -1,5 +1,43 @@
+<!-- phantomjs rasterize.js "http://127.0.0.1:4000/neuseeland/2016/11/14/newsletter-9/print/" test.pdf A4 -->
+
 <head>
-<meta charset="utf-8">
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
+    <style>
+        .gallery-caption {
+            margin-left: 0px;
+        }
+        
+        .gallery-item {
+            float: left;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+        
+        .thumbnail {
+            height: auto;
+        }
+        
+        body {
+            font-family: 'Roboto', sans-serif;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+    $( document ).ready(function() {
+        
+        $('.thumbnail').each(function(){
+            $(this).attr('src', $(this).parent().attr('href'));
+            $(this).attr('width', Math.floor($(window).innerWidth() / 2) -25);
+            
+        });
+
+    });
+   
+ 
+    </script>
 </head>
 
-{{ content }}
+<body>
+    {{ content }}
+</body>
