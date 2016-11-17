@@ -8,9 +8,22 @@ html, body {
     height: 100%;
 }
 
-body{
-    padding-bottom: $footer-height+$container-margin;
-    padding-top: 20px;
+@media (min-width: 768px) {
+
+    body{
+        padding-bottom: $footer-height+$container-margin;
+        padding-top: 20px;
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    body{
+        padding-bottom: $footer-height;
+        padding-top: 0px;
+    }
+
 }
 
 .main-container {
