@@ -80,6 +80,7 @@ gallerytag:
     thumb_height: 153
     columns: 99                     # set to 0 and a <ul> list will be generated
     custom_attribute_name: data-lightbox
+    baseurl: /blog
 
 collections:
   php:

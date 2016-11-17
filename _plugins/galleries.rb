@@ -93,7 +93,7 @@ module Jekyll
                     Dir.glob(File.join(full_item_path, "*.{png,jpg,jpeg,gif}")).each do |file|
                         file_in_gal_path = File.join(item[0], File.basename(file))
                         
-                        hsh = gen_gallery_data_from_item(file_in_gal_path, source_dir, item[1], itemnum)
+                        hsh = gen_gallery_data_from_item(file_in_gal_path, source_dir, @config['baseurl'], item[1], itemnum)
 	   			        gallery_data.push(hsh)
 	   			        
 	   			        itemnum += 1
@@ -101,7 +101,7 @@ module Jekyll
         				break if (@max_img_num && gallery_data.length >= @max_img_num)
                     end
 			    elsif item_ok
-                    hsh = gen_gallery_data_from_item(item[0], source_dir, item[1], nil)
+                    hsh = gen_gallery_data_from_item(item[0], source_dir, @config['baseurl'], item[1], nil)
 				
 				    gallery_data.push(hsh)
 				else
@@ -113,7 +113,7 @@ module Jekyll
 			return gallery_data
 		end
 
-        def gen_gallery_data_from_item(item, source_dir, cap_ref, itemnum)
+        def gen_gallery_data_from_item(item, source_dir, baseurl, cap_ref, itemnum)
             cap = nil
             
             if cap_ref != nil
@@ -125,7 +125,7 @@ module Jekyll
             end
         
     		hsh = {
-                "url" => "/#{source_dir}/#{item}",
+                "url" => "#{baseurl}/#{source_dir}/#{item}",
                 "thumbnail" => GalleryThumbnail.new(item, @config), #this should be url to a generated thumbnail, eventually
                 "caption" => cap
             }
@@ -167,7 +167,7 @@ module Jekyll
 	 	def get_url
 	 		filename = File.path(@img_filename).sub(File.extname(@img_filename), "-thumb#{File.extname(@img_filename)}")
 	 		directory = @config['destination_dir'] != nil ? @config['destination_dir'].sub(/^\//, '') : (@config['url'] != nil ? @config['url'].sub(/^\//, '') : "images/thumbs")
-			"/#{directory}/#{filename}"
+			"#{@config['url']}#{@config['baseurl']}/#{directory}/#{filename}"
 	 	end
 
 
