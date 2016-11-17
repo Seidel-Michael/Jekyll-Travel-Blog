@@ -29,6 +29,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 rss: feed.xml
 permalink: pretty
 
+impressum:
+  mail: info@michael-in-neuseeland.de
+  url: michael-in-neuseeland.de
+  phone: +64 027 449 8208  
+  surname: Michael
+  lastname: Seidel
+  street: Grundstr. 6
+  city: 73262 Reichenbach / Fils
+  country: Deutschland
+
 
 contact:
   php: /blog/php/contact.php
