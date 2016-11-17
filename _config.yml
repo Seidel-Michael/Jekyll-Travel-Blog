@@ -19,7 +19,7 @@ navbar-title: Michael in Neuseeland
 header-image: /images/header.png
 header-image-height: 100px
 header-image-height-small: 50px
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 title: Michael in Neuseeland
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -28,6 +28,24 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 rss: feed.xml
 permalink: pretty
+
+
+contact:
+  php: /blog/php/contact.php
+  from: no-reply@michael-in-neuseeland.de 
+  to: newsletter@michael-in-neuseeland.de 
+  missing: /contact/missing/
+  error: /contact/error/
+  success: /contact/success/
+  subject: "Kontaktforumlar: michael-in-neuseeland.de"
+  translation:
+    label-mail: E-Mail Addresse
+    placeholder-mail: E-Mail Addresse eingeben
+    label-name: Name
+    placeholder-name: Name eingeben
+    label-message: Nachricht
+    placeholder-message: Nachricht eingeben
+    send: Senden
 
 translation:
   read-more: Weiterlesen
@@ -64,7 +82,7 @@ gallerytag:
     custom_attribute_name: data-lightbox
 
 collections:
-  prints:
+  php:
     output: true
 
 # Build settings

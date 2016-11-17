@@ -1,0 +1,23 @@
+---
+layout: page
+title: Kontakt
+permalink: /contact/
+menu: 30
+---
+
+<form action="{{ site.contact['php'] }}" method="POST">
+  <div class="form-group">
+    <label for="name">{{ site.contact['translation']['label-name'] }}</label>
+    <input type="text" class="form-control" name="name" placeholder="{{ site.contact['translation']['placeholder-name'] }}">
+    <div class="form-group">
+      <label for="mail">{{ site.contact['translation']['label-mail'] }}</label>
+      <input type="email" class="form-control" name="mail" placeholder="{{ site.contact['translation']['placeholder-name'] }}">
+    </div>
+    <div class="form-group">
+      <label for="message">{{ site.contact['translation']['label-message'] }}</label>
+      <textarea class="form-control" name="message" rows="10" placeholder="{{ site.contact['translation']['placeholder-message'] }}"></textarea>
+    </div>
+    <input type="text" name="_gotcha" style="display:none" />
+    <input type="hidden" name="send" />
+    <input type="submit" class="btn btn-primary" value="{{ site.contact['translation']['send'] }}">
+</form>
