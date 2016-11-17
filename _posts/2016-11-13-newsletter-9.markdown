@@ -22,7 +22,7 @@ Bay of Plenty – Tauranga – The Wharf
 
 Was ist überhaupt Steiger und The Wharf?
 ========================================
-Steiger ist eine Internationale Christliche Organisation, die sich zum Ziel gesetzt hat Jugendlichen in aller Welt von Jesus zu erzählen. (http://nz.steiger.org/)
+[Steiger](http://nz.steiger.org/) ist eine Internationale Christliche Organisation, die sich zum Ziel gesetzt hat Jugendlichen in aller Welt von Jesus zu erzählen.
 In Neuseeland besitzt Steiger mitten in Tauranga ein 4-Zimmer Apartment. Dort leben immer drei feste Bewohner, es gibt ein Zimmer mit 4 Betten für Backpacker und es werden alle möglichen Events dort veranstaltet. Das ganze wird The Wharf Community House genannt, da so die Straße heißt.
 Aktuell leben hier Sarah aus den USA, Dave aus Neuseeland und Miriam aus Deutschland.
 Sarah ist bei Steiger angestellt und für das Community House verantwortlich. Sie zieht aber bald aus und übernimmt andere Aufgaben.
