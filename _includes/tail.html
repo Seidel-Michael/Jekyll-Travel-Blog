@@ -17,7 +17,9 @@
           $bg = $("#bg");
 
         var available = [
-          3220
+          1024, 1280, 1366,
+          1400, 1680, 1920,
+          2560, 3840, 4592
         ];
 
         var current = $bg.attr('src').match(/([0-9]+)/) ? RegExp.$1 : null;
@@ -33,7 +35,7 @@
             }
           }
 
-          $bg.attr('src', '{{ site.baseurl }}/images/bg/' + chosen + '.png');
+          $bg.attr('src', '{{ site.baseurl }}/images/bg/' + chosen + '.jpg');
 
         }
 
