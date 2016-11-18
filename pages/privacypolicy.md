@@ -29,6 +29,11 @@ Aus technischen Gründen werden u.a. folgende Daten, die Ihr Internet-Browser an
 
 Diese anonymen Daten werden getrennt von Ihren eventuell angegebenen personenbezogenen  Daten gespeichert und lassen so keine Rückschlüsse auf eine bestimmte Person  zu. Sie werden zu statistischen Zwecken ausgewertet, um unseren  Internetauftritt und unsere Angebote optimieren zu können. </p>
 
+Kontaktmöglichkeit
+==================
+
+Wir bieten Ihnen auf unserer Seite die Möglichkeit, mit uns per E-Mail und/oder über ein Kontaktformular in Verbindung zu treten. In diesem Fall werden die vom Nutzer gemachten Angaben zum Zwecke der Bearbeitung seiner Kontaktaufnahme gespeichert. Eine Weitergabe an Dritte erfolgt nicht. Ein Abgleich der so erhobenen Daten mit Daten, die möglicherweise durch andere Komponenten unserer Seite erhoben werden, erfolgt ebenfalls nicht.
+
 Einsatz von  Webanalysedienst PIWIK
 ===================================
 
