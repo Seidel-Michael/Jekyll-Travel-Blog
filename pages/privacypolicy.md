@@ -27,7 +27,7 @@ Aus technischen Gründen werden u.a. folgende Daten, die Ihr Internet-Browser an
 - Datum und Uhrzeit Ihres Zugriffs 
 - Ihre Internet Protokoll (IP)-Adresse. 
 
-Diese anonymen Daten werden getrennt von Ihren eventuell angegebenen personenbezogenen  Daten gespeichert und lassen so keine Rückschlüsse auf eine bestimmte Person  zu. Sie werden zu statistischen Zwecken ausgewertet, um unseren  Internetauftritt und unsere Angebote optimieren zu können. </p>
+Diese anonymen Daten werden getrennt von Ihren eventuell angegebenen personenbezogenen  Daten gespeichert und lassen so keine Rückschlüsse auf eine bestimmte Person  zu. Sie werden zu statistischen Zwecken ausgewertet, um unseren  Internetauftritt und unsere Angebote optimieren zu können.
 
 Kontaktmöglichkeit
 ==================
