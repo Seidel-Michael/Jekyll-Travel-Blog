@@ -25,7 +25,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-url: "http://michael-in-neuseeland.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://dev.michael-in-neuseeland.de" # the base hostname & protocol for your site, e.g. http://example.com
 rss: /feed.xml
 permalink: pretty
 
@@ -41,7 +41,7 @@ impressum:
 
 
 contact:
-  php: /blog/php/contact.php
+  php: /php/contact.php
   from: no-reply@michael-in-neuseeland.de 
   to: newsletter@michael-in-neuseeland.de 
   missing: /contact/missing/
@@ -90,7 +90,7 @@ gallerytag:
     thumb_height: 153
     columns: 99                     # set to 0 and a <ul> list will be generated
     custom_attribute_name: data-lightbox
-    baseurl: /blog
+    baseurl: 
 
 collections:
   php:
