@@ -6,12 +6,12 @@ layout: default
 <div class="row">
     {% if post.thumbnail %}
     <div class="col-sm-12">
-        <h1>{{ post.title | escape }}</h1>
+        <a class="hide-link" href="{{ post.url | relative_url }}"><h1 class="h1-color">{{ post.title | escape }}</h1></a>
     </div>
 </div>
 <div class="row">
     <div class="col-sm-3">
-        {% picture post-thumbnail {{ post.thumbnail }} %}
+        <a href="{{ post.url | relative_url }}">{% picture post-thumbnail {{ post.thumbnail }} %}</a>
     </div>
     <div class="col-sm-9">
         <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
@@ -20,7 +20,7 @@ layout: default
     </div>
     {% else %}
     <div class="col-sm-12">
-        <h1>{{ post.title | escape }}</h1>
+        <a href="{{ post.url | relative_url }}"><h1>{{ post.title | escape }}</h1></a>
     </div>
 </div>
 <div class="row">
