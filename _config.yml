@@ -27,6 +27,9 @@ url: "http://dev.michael-in-neuseeland.de" # the base hostname & protocol for yo
 rss: /feed.xml
 permalink: pretty
 
+piwikurl: piwik.seidel-michael.de
+piwikid: 2
+
 impressum:
   mail: info@michael-in-neuseeland.de
   url: michael-in-neuseeland.de
