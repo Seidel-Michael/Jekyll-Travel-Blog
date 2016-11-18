@@ -49,6 +49,7 @@ contact:
   error: /contact/error/
   success: /contact/success/
   subject: "Kontaktforumlar: michael-in-neuseeland.de"
+  privacypolicy: /privacypolicy/
   translation:
     label-mail: E-Mail Addresse
     placeholder-mail: E-Mail Addresse eingeben
@@ -57,6 +58,8 @@ contact:
     label-message: Nachricht
     placeholder-message: Nachricht eingeben
     send: Senden
+    privacypolicy: zur Datenschutzerklärung
+
 
 translation:
   read-more: Weiterlesen

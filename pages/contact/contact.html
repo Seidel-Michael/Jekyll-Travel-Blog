@@ -21,3 +21,7 @@ menu: 30
     <input type="hidden" name="send" />
     <input type="submit" class="btn btn-primary" value="{{ site.contact['translation']['send'] }}">
 </form>
+
+{% if site.contact['privacypolicy'] %}
+<p style="margin-top: 10px;"><a href="{{ site.contact['privacypolicy'] | relative_url }}">{{ site.contact['translation']['privacypolicy'] }}</a></p>
+{% endif %}
