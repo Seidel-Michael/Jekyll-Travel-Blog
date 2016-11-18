@@ -61,8 +61,9 @@ Tag 49: Dienstag
 Der Tag heute ist sicherlich einer der kurioseren Tage in Neuseeland. 
 Heute Morgen hat es einfach nur unangenehm gestürmt. Ich hab aber wenigstens dank Ohropax mal wieder richtig gut geschlafen. Nach einem guten Frühstück bin ich dann über Umwege zum Cathedral Cove gefahren. Meine Hoffnung, dass dort dann besseres Wetter ist, wurde erfüllt. Der offizielle Parkplatz vor Ort war bereits überfüllt und ich musste im nächsten Ort Parken und ein bisschen mehr laufen. Cathedral Cove selber ist nur ein Durchgang im Felsen und hat mich nicht wirklich begeistert. Die Strände außen rum waren dafür aber wirklich wunderschön und es hat sich gelohnt dort hinzulaufen. Ich wäre beinahe einfach ins Wasser gesprungen wenn es nicht doch noch ein wenig kalt gewesen wäre. 
 
+{% picture Newsletter-9/newsletter-5.jpg:: Aussicht von der Straße %}
+
 {% gallery Tag49-1 %}
-Newsletter-9/newsletter-5.jpg:: Aussicht von der Straße
 Newsletter-9/newsletter-6.jpg:: Auf dem Weg zum Cathedral Cove
 Newsletter-9/newsletter-7.jpg:: Cathedral Cove
 Newsletter-9/newsletter-8.jpg:: Cathedral Cove

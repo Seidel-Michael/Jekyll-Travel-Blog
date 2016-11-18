@@ -19,7 +19,7 @@ navbar-title: Michael in Neuseeland
 header-image: /images/header.png
 header-image-height: 100px
 header-image-height-small: 50px
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 title: Michael in Neuseeland
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
