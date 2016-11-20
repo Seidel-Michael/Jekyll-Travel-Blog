@@ -23,7 +23,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: Michael in Neuseeland
 description: > # this means to ignore newlines until "baseurl:"
   Michael in Neuseeland
-url: "http://dev.michael-in-neuseeland.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://michael-in-neuseeland.de" # the base hostname & protocol for your site, e.g. http://example.com
 rss: /feed.xml
 permalink: pretty
 
