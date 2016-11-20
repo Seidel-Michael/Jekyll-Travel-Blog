@@ -1,7 +1,7 @@
 ---
 layout: [post, print]
 title:  "Neuseeland #10 – Hilfe ich hab einen Job!"
-date:   2016-11-19 16:00:00 +1200
+date:   2016-11-20 14:00:00 +1200
 categories: neuseeland
 thumbnail: Newsletter-10/newsletter-1.jpg
 ---
