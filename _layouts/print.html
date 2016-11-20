@@ -16,6 +16,7 @@
         
         .thumbnail {
             height: auto;
+            width: 700;
         }
         
         body {
@@ -28,7 +29,7 @@
         
         $('.thumbnail').each(function(){
             $(this).attr('src', $(this).parent().attr('href'));
-            $(this).attr('width', Math.floor($(window).innerWidth() / 2) -25);
+            //$(this).attr('width', Math.floor($(window).innerWidth() / 2) -25);
             
         });
 
