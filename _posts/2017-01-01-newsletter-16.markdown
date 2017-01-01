@@ -1,0 +1,101 @@
+---
+layout: [post, print]
+title:  "Neuseeland #16 – Auf in ein neues Jahr..."
+date:   2017-01-01 14:00:00 +1200
+categories: neuseeland
+thumbnail: Newsletter-16/newsletter-17.jpg
+---
+
+Ich wünsche euch allen einen guten Start ins neue Jahr!
+
+Mein Neujahr war mal etwas anders wie gewohnt und der Start ins neue Jahr nicht ganz so wie geplant. Aber Ihr müsst euch bis zum nächsten Newsletter gedulden, bis Ihr das erfahrt.
+
+Die letzte Woche war relativ entspannt und ich habe nicht allzu viel gemacht. Das ist auch mal gut, aber meine Beine werden immer unruhig, wenn ich zu lange zu faul bin. Es wird wieder Zeit für eine ordentliche Wanderung. Hoffentlich ergibt sich da bald etwas.
+
+Viel Spaß beim Lesen.
+
+
+Grüße aus Gisborne,
+
+Michael
+
+___
+
+
+Tag 96: Sonntag
+===============
+
+Heute war ich mal wieder richtig faul und habe bis wir nachmittags gegangen sind einfach mal nichts wirklich gemacht. Dann wurde es ein bisschen chaotisch, weil wir zu zwei Dingen eingeladen waren und sich ständig die Zeiten geändert haben. Es wäre eigentlich ganz einfach möglich gewesen, zu beidem zu gehen. Da mag ich dann doch unsere deutsche Mentalität. Wenn man was sagt, dann ist es normalerweise auch so und man verschiebt Zeiten nicht x-mal kurzfristig. 
+
+Am Ende sind wir dann am Nachmittag an den Strand gefahren und ich bin natürlich ins Wasser gegangen. Jetzt kann ich sagen, dass ich an Weihnachten am Strand war und im Meer geschwommen bin. So richtig warm war das Wasser nicht, aber man ist ja nicht jedes Jahr in Neuseeland. Danach sind wir zum Motel (Dort Arbeiten und Wohnen Freunde von Steiger / dem Community House) und haben dort einen gemütlichen Abend verbracht. Zwar hatten wir nicht typisch für Neuseeländer ein BBQ am Strand, aber es gab immerhin noch ein paar Würstchen vom Grill im Motel. 
+
+{% gallery Tag96 %}
+Newsletter-16/newsletter-1.jpg:: An Weihnachten im Meer
+{% endgallery %}
+
+
+Tag 97: Montag
+==============
+
+Und noch mal ein fauler Tag. Ich war aber auch die ganze Zeit recht müde, da ich nicht besonders gut geschlafen habe.
+
+Am Abend wollten wir uns dann am Hafen treffen, da das 4. größte Kreuzfahrtschiff der Welt in Tauranga abfährt. Leider hatten sehr viele den gleichen Plan wie wir und wir konnten das Ganze nur aus dem Auto raus sehen, da wir keinen Parkplatz mehr gefunden haben. Nachdem wir dann nach einer ganzen Weile die anderen gefunden haben, sind wir noch für den Sonnenuntergang auf den Mount Manganui gelaufen. Es war aber leider ein bisschen bewölkt und nicht der beste Sonnenuntergang. Danach sind wir dann noch zum Abendessen in den Burgerfuel. Ich hab jetzt erst realisiert, dass Burgerfuel tatsächlich eine neuseeländische Kette ist. Die haben aber auch einfach sehr gute Burger.
+
+{% gallery Tag97 %}
+Newsletter-16/newsletter-2.jpg:: Mount Manganui
+Newsletter-16/newsletter-3.jpg:: Mount Manganui
+Newsletter-16/newsletter-4.jpg:: Mount Manganui
+{% endgallery %}
+
+
+Tag 98: Dienstag
+================
+
+Ich wiederhole mich so langsam. Heute war schon wieder ein fauler Tag. Ich hab den ganzen Tag nicht wirklich was gemacht. Morgen erfahre ich dann aber endlich, was mit meinem Auto ist und kann dann hoffentlich weiterplanen. Am Abend sind wir dann noch in die Hot Pools.
+
+
+Tag 99: Mittwoch
+================
+
+Heute ist nach Tagen gerechnet genau meine Halbzeit in Neuseeland. Jetzt müsste ja eigentlich ein großes Halbzeit-Fazit kommen, aber ich bin trotz all der Zeit die ich gerade habe nicht dazu gekommen. Das werde ich dann noch irgendwann nachholen.
+
+Eigentlich wollte ich heute mal nicht so faul sein. Ich hab immerhin auch mehr Sinnvolles gemacht. Am Morgen habe ich erst mal mein Auto in die Werkstatt gebracht. Jetzt bin ich doch sehr gespannt, was kaputt ist, wie teuer es wird und vor allem wie lange es dauert. Am Nachmittag kam dann der Anruf von der Werkstatt. Ich hätte wohl auch Lotto spielen können, was ich heute auch noch gemacht habe. Meine hinteren Kugellager sind wohl beide kaputt und auf einer Seite hätte ich wohl jeden Moment ein Rad verlieren können. Da hab ich dann wohl noch mal Glück gehabt. Alle notwendigen Reparaturen belaufen sich auf 850 $. Da ist das Weihnachtsgeld gleich wieder weg. Aber es muss so oder so repariert werden. Immerhin kommen die Teile über Nacht und ich kann das Auto morgen Mittag wieder abholen. Jetzt konnte ich auch endlich weiter Planen. Ich hab meine Fähre auf die Südinsel gebucht, ein paar Leute für ein weiteres Help Exchange angeschrieben und ein wenig meine Route geplant. Am 10. Januar geht es dann endlich rüber auf die Südinsel.
+
+
+Tag 100: Donnerstag
+===================
+
+Die Werkstatt war echt schnell und ich hab jetzt endlich mein Auto wieder. Und wie leise es auf einmal ist. Jetzt muss ich die Musik gar nicht mehr so laut aufdrehen. Ich bin dann trotzdem noch bis zum Nachmittag im Community House geblieben, hab noch was gegessen und mein Zeug in Ruhe gepackt. Dann noch kurz von allen verabschieden und losgeht es in Richtung Rotorua. Dort bin ich zuerst auf den Night Market gegangen. Dort gibt es alles Mögliche zum Essen. Unter anderem auch eine ordentliche deutsche Currywurst oder Leberkäse. Die Deutschen standen da Schlange. Ich hab mich dann doch für einen Crêpe mit Nutella entschieden. Danach ging es zu einem Wettbewerb für Straßenmusiker im Park. Alles sehr talentierte Leute und man konnte sich einfach, gemütlich hinsetzten. Für die Nacht ging es dann zu einem kostenlosen Campingplatz in der Nähe. Ein wunderschöner Platz mit einem tollen Sonnenuntergang. Ein ganz guter Start fürs Reisen.
+
+{% gallery Tag100 %}
+Newsletter-16/newsletter-6.jpg:: Night Market
+Newsletter-16/newsletter-7.jpg:: Straßenmusiker Wettbewerb
+Newsletter-16/newsletter-5.jpg:: Sonnenuntergang
+{% endgallery %}
+
+Tag 101: Freitag
+================
+
+Bei gutem Wetter macht es einfach Spaß draußen an der frischen Luft gemütlich zu Frühstücken. Mein erster Freelancing Job ist jetzt endlich beendet und es gab die erste 5-Sterne Bewertung. Nachdem Frühstück bin ich dann zur i-Site in Rotorua gefahren, um zu schauen, was ich heute so machen will. Zuerst bin ich dann zu einem Bibelmuseum. Das war aber nicht ganz so spannend, wie es sich angehört hat. Dafür hat sich der Ausblick vom Rainbow Mountain danach gelohnt. Und ich hab mal wieder gemerkt, dass mir doch eine Wanderung bergauf am meisten Spaß in Neuseeland macht. Rotorua ist eigentlich mehr für seine geothermische Landschaft bekannt. Das interessiert mich aber irgendwie nicht ganz so. Das ist vor allem ein wenig Dampf, blubbernder Matsch und viel Gestank. Am Abend ging es dann zum Blue Lake. Dort gab es heute kostenloses Kino am See. Ein wunderschöner Platz zum Filmschauen. Zuerst wurde „Findet Dori“ gezeigt und danach „Hunt for the Wilderpeople“. Der zweite Film ist ein Film aus Neuseeland. Ich mag den Humor in diesen Filmen wirklich sehr. Eine absolute Empfehlung. Zum Schlafen ging es dann wieder zurück zum Campingplatz.
+
+{% gallery Tag101 %}
+Newsletter-16/newsletter-12.jpg:: Frühstück
+Newsletter-16/newsletter-8.jpg:: i-Site in Rotorua
+Newsletter-16/newsletter-9.jpg:: Bibelmuseum
+Newsletter-16/newsletter-10.jpg:: Rainbow Mountain
+Newsletter-16/newsletter-11.jpg:: Rainbow
+Newsletter-16/newsletter-13.jpg:: Kino am See
+{% endgallery %}
+
+
+Tag 102: Samstag
+================
+
+Heute war dann mal etwas mehr Autofahren wie üblich angesagt. Aber zuerst darf man das gemütliche Frühstück natürlich nicht vergessen. Dann ging es los zum East Cape, den östlichsten Punkt von Neuseeland. Die Fahrt hat sich dann mit fast 5 Stunden doch etwas hingezogen. Zwischendurch habe ich noch zwei Anhalter aus Argentinien aufgegabelt, die auch ans East Cape wollten. Wir sind dann noch gemeinsam auf den Berg zum Leuchtturm hochgelaufen. Knappe 800 Stufen geht es hoch. Von dort oben hat man aber eine ganz schöne Aussicht. Danach sind wir dann zum Campingplatz. Die beiden Argentinier haben dort Leute gekannt und ich hab mich mit dazugesetzt. Engländer, Bulgaren, Spanier, Franzosen, Argentinier und ich. Zum Abendessen hab ich mir mal wieder leckere Nudeln gemacht. Das habe ich schon beinahe vermisst. Irgendwann haben dann alle angefangen, Trinkspiele zu spielen, und ich bin einfach schon vor 12 Uhr ins Bett gegangen. Ein bisschen mehr Schlaf schadet aber nicht, da ich morgen Früh den ersten Sonnenaufgang vom Jahr als einer der ersten auf der ganzen Welt sehen will. Das bedeutet, der Wecker klingelt schon um 4 Uhr 30 und dann geht es wieder hoch zum Leuchtturm. Mitternacht habe ich trotzdem nicht verpasst, da es kaum zu überhören war. Es gab zwar kein wirklich Feuerwerk aber die Leute waren gut im Laut runterzählen.
+
+{% gallery Tag102 %}
+Newsletter-16/newsletter-14.jpg:: Mittagspause am Meer
+Newsletter-16/newsletter-15.jpg:: East Cape
+Newsletter-16/newsletter-16.jpg:: East
+Newsletter-16/newsletter-17.jpg:: Campingplatz
+{% endgallery %}
