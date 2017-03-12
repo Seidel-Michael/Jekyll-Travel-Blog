@@ -1,0 +1,125 @@
+---
+layout: [post, print]
+title:  "Neuseeland #26 – Routeburn Versuch Nummer 2"
+date:   2017-03-12 21:00:00 +1200
+categories: neuseeland
+thumbnail: Newsletter-26/newsletter-29.jpg
+---
+
+Genauso schnell wie wir die Kilometer aktuell zurücklegen vergeht auch die Zeit vorbei. Schon ist wieder die nächste Woche vorbei. Beim Routeburn Track hatte ich zwar mehr Glück als beim letzten Ma,l aber leider hatte ich immer noch nicht all die schönen Aussichten, die man haben könnte. Jetzt sitzen wir gerade in Picton und warten darauf morgen mit der Fähre nach Wellington, wieder auf die Nordinsel, überzusetzen. Dann beginnt auch schon die letzte Woche gemeinsam mit Philipp, bevor ich meine letzten drei Wochen wieder alleine Reise.
+
+Viel Spaß beim Lesen.
+
+
+Grüße aus Picton,
+
+Michael
+
+___
+
+
+Tag 166: Sonntag 
+================
+
+Heute ist der Tag der Tage. Wir laufen fast den ganzen Routeburn Track von der Howden Hut bis zur Flats Hut. Ein bisschen weiter als beim letzten Mal. Der Wetterbericht ist auch etwas besser als beim letzten Mal. Immerhin soll es nur kurze Schauer geben. Morgens beim Aufstehen sah es erst mal mit dem dicken Nebel gar nicht gut aus. Es war dann den Tag über zwar immer noch kein Traumwetter, aber es hat immerhin nicht geregnet und man konnte schon mal deutlich mehr sehen. Zwischendurch hat man sogar blauen Himmel gesehen. Die krassen Aussichten sind auf dem ersten Teil der Strecke immer noch weggefallen, aber nach dem Sattel hatte man immerhin bis nach unten zur Hütte eine schöne Aussicht ins Tal. Auf dem Weg nach unten sind wir dann zuerst bei einem Ranger, der am Weg gearbeitet hat, hängen geblieben. Wir haben uns eine ganze Weile gut unterhalten. Als wir dann endlich weiter gekommen sind, sind wir auch gleich wieder bei einem Kanadier hängen geblieben und hatten noch mal ein gutes Gespräch. Danach gab’s dann nur noch eine kurze Pause in der Falls Hut, bevor es dann vollends zu unserer Hütte für die Nacht ging. Wir haben etwas unter 8 Stunden gebraucht. Eine ganz gute Zeit mit den ganzen Pausen zwischendurch. Die Hütte ist ganz schön und hat eine große Fensterfront mit einer schönen Sicht. Nur waren die Leute in der Hütte heute nicht ganz so interessant. Über die Hälfte waren Asiaten, die schon um 8e im Bett waren. Wir haben uns dann mit einem anderen Deutschen den Abend über unterhalten. Er hat seinen Master in Physik gemacht und bevor er mit dem Doktor anfängt, ist er noch für 3 Monate nach Neuseeland. Die Hut Wardin war auch ganz nett, aber auch nur kurz für einen Hut Talk da. 
+
+{% gallery Tag166 %}
+Newsletter-26/newsletter-1.jpg:: Der Ausblick am Morgen
+Newsletter-26/newsletter-2.jpg:: Eine typische Wettervorhersage
+Newsletter-26/newsletter-3.jpg:: Auf dem Track
+Newsletter-26/newsletter-4.jpg:: Earland Falls
+Newsletter-26/newsletter-5.jpg:: Lake Mackenzie
+Newsletter-26/newsletter-6.jpg:: Auf dem Track
+Newsletter-26/newsletter-7.jpg:: Auf dem Track
+Newsletter-26/newsletter-8.jpg:: Der Ausblick am Abend
+{% endgallery %}
+
+
+Tag 167: Montag
+===============
+
+Und schon ist auch wieder der letzte Tag unserer Wanderung. Auf 12 Uhr haben wir den Shuttle gebucht. Davor waren es nur noch 2 gemütliche Stunden zum Laufen. Viel Spannendes gibt es auf der letzten Etappe dann auch nicht mehr. 
+
+So schön es ist neue Leute in Neuseeland kennenzulernen, gibt es doch auch ab und zu Leute, wo man schon nach zwei Sätzen merkt, dass man lieber einfach wieder weggehen will. So einen haben wir dann heute beim Warten auf den Shuttle kennengelernt. Er ist dann auch mit dem Shuttle gefahren und hat die ganze Zeit mit der Fahrerin diskutiert und sich über alles Mögliche aufgeregt. Trotzdem war ein Thema ganz spannend. Die beiden haben ein bisschen über das Camp Glenorchy diskutiert, zu dem auch der Campingplatz auf dem wir waren gehört. Wir sind in Glenorchy dann noch mal fürs Vesper an den See und für einen Kaffee und Kuchen in den General Store. Dort haben wir uns dann auch die Infotafeln zum Camp Glenorchy Projekt angeschaut. Ein echt spannendes Projekt. Das Ganze soll ein Net Zero Camp werden, das auch schon während dem Bau auf die Umwelt achtet. Am Ende soll es ein Vorzeigeprojekt für Nachhaltigkeit werden.
+
+Danach sind wir dann nach Wanaka für die Nacht gefahren. Wir sind wieder die schöne Passstraße gefahren. Mit dem Campingplatz hat dann unser Luxusabend begonnen. Es gab einen kostenlosen Wellnessbereich mit Pool und Sauna den wir gleich genutzt haben. Danach sind wir mit einem kostenlosen Shuttle vom Campingplatz ins Stadtzentrum gefahren. Dort sind wir dann zu einem Italiener fürs Abendessen und haben uns bevor wir es realisieren konnten 9 $ teuren Sprudel aus Italien bestellt. Das ist besonders amüsant, wenn man darüber nachdenkt, dass wir in den letzten Tagen nicht mal offizielles Trinkwasser getrunken haben. Aber die Pizza war richtig lecker.
+
+{% gallery Tag167 %}
+Newsletter-26/newsletter-9.jpg:: Der Morgen
+Newsletter-26/newsletter-10.jpg:: Auf geht's
+Newsletter-26/newsletter-11.jpg:: Auf dem Track
+Newsletter-26/newsletter-12.jpg:: Pass nach Wanaka
+Newsletter-26/newsletter-13.jpg:: Pass nach Wanaka
+Newsletter-26/newsletter-14.jpg:: Pass nach Wanaka
+Newsletter-26/newsletter-15.jpg:: Bereit für die Pizza
+Newsletter-26/newsletter-16.jpg:: Pizza
+{% endgallery %}
+
+
+Tag 168: Dienstag
+=================
+
+Nach dem Wandern und dem entspannten Abend werden jetzt wieder Kilometer gemacht. Heute sind wir bis Hokitia gefahren, was etwa auf der Hälfte von unserer Strecke bis zum Abel Tasman liegt. Außer, dass die Fahrt an sich schon sehr schön ist, wir zum Vesper an einen schönen See sind, am Fox Glacier um einen See gelaufen sind und einen Kaffee getrunken haben, ist nicht viel passiert. Der Campingplatz, zu dem wir sind wurde erst im Dezember eröffnet, ist also noch nagelneu. Es hat noch überall richtig gut nach neuem Holz gerochen. Der Platz hat zwar nicht die perfekte Lage, ist aber trotzdem echt schön. Den Abend hab ich dann noch genutzt um meinen Newsletter fertigzumachen.
+
+{% gallery Tag168 %}
+Newsletter-26/newsletter-20.jpg:: Vesper am See
+Newsletter-26/newsletter-17.jpg:: Vesper am See
+Newsletter-26/newsletter-18.jpg:: Ausblick am Fox Glacier
+Newsletter-26/newsletter-19.jpg:: See am Fox Glacier
+{% endgallery %}
+
+
+Tag 169: Mittwoch
+=================
+
+Heute war dann der zweite Tag Autofahren bis zum Abel Tasman. Der Hauptanteil am Tag hatte wieder die Fahrt in den Anspruch genommen. Auf dem Weg sind wir an den Spots, die ich schon kannte angehalten. Zuerst bei den Pancake Rocks und dann bei der Robbenkolonie am Cape Foulwind. Ich war dann hin und hergerissen, ob wir bei meinem Host, George, nachfragen sollen, ob wir im Garten Campen dürfen, oder auf einen Campingplatz gehen. Es ist dann der Campingplatz geworden, weil ich sonst immer das Gefühl hätte die Gastfreundschaft auszunutzen. Heute haben wir dann mal wieder nicht gekocht, sondern sind zum Fat Tui gegangen. Dort wollte ich schon die ganze Zeit hingehen. Einen richtig großen Burger gab es dort. Wobei der Fergburger im Vergleich fast noch mal besser war. Den Abend haben wir dann im TV Zimmer vom Campingplatz verbracht. Ich muss echt sagen, dass ich den Fernseher absolut nicht vermisse. Ich bin dann auch schon um 9 Uhr ins Bett.
+
+{% gallery Tag169 %}
+Newsletter-26/newsletter-21.jpg:: Pancake Rocks
+Newsletter-26/newsletter-22.jpg:: Pancake Rocks
+Newsletter-26/newsletter-23.jpg:: Cape Foulwind
+Newsletter-26/newsletter-24.jpg:: Cape Foulwind
+Newsletter-26/newsletter-25.jpg:: Cape Foulwind
+Newsletter-26/newsletter-26.jpg:: On the Road
+{% endgallery %}
+
+
+Tag 170: Donnerstag
+===================
+
+Es ist einfach eines der schönsten Gefühle, morgens ohne Wecker aufzuwachen, die Türe vom Auto zu öffnen, die frische Luft und die Sonnenstrahlen im Gesicht zu genießen. 
+
+Heute steht Kajakfahren auf dem Programm. Das Wetter scheint mal richtig gut zu sein. Wir haben natürlich nicht vorher gebucht. Beim dritten Verleiher hatten wir dann Glück und es gab noch Platz für die nächste Kajak Tour. Zuerst durften wir uns eine Stunde lang eine Sicherheitsunterweisung anhören und dann ging es endlich zum Wasser, wo wir nach ein paar Übungen mit dem Paddel auch vollends für uns alleine losfahren durften. Wir sahen zwar vermutlich nicht wie die Profis aus, aber wir sind auch nicht gekentert. Zuerst sind wir zu einem Strand fürs Vesper gepaddelt. Danach ging es zu einer Insel mit einer Robbenkolonie. Auf der Insel gab’s dann auch noch mal eine kurze Pause am Strand, bevor es auch schon wieder Zeit war zurück zu paddeln. Der letzte Teil war dann doch recht anstrengend. Die Wellen sind schon größer geworden und es war ein echtes Erlebnis auf dem Rückweg. Wir sind dann aber gut zurückgekommen. War mal was anderes als Wandern, hat aber echt Spaß gemacht, auch wenn es am Ende anstrengend war. Den restlichen Nachmittag lagen wir dann entspannt auf der Wiese vom Campingplatz. Nach einem guten späten Abendessen sind wir dann noch ins Park Café zur Open Mic Night gegangen. War echt cool was da so gespielt wurde. Ich muss wirklich wieder mehr Musik machen. Dort haben wir uns dann noch mit einer Deutschen und einer Schweizerin unterhalten. Die beiden sind mit dem Stray-Bus unterwegs. Das war auch mal ganz interessant zu hören, wie das so ist.
+
+{% gallery Tag170 %}
+Newsletter-26/newsletter-28.jpg:: Morgensonne
+Newsletter-26/newsletter-27.jpg:: Kajakfahren
+Newsletter-26/newsletter-29.jpg:: Kajakfahren
+Newsletter-26/newsletter-30.jpg:: Open Mic Night
+{% endgallery %}
+
+
+Tag 171: Freitag
+================
+
+Nachdem gestern mehr was für die Arme war, haben wir heute wieder was für die Beine getan und sind gewandert. Die Strecke habe ich schon gekannt, aber wenn man nicht nur „flach“ am Abel Tasman laufen will, gibt es nicht viele alternativen. Erst geht der Weg einen Grat entlang nach oben und dann wieder auf einem anderen runter, bevor es auf dem Abel Tasman Costal Track zurückgeht. Zwischendurch hat man dadurch immer wieder echt schöne Aussichten. Fürs Vesper haben wir noch einen kleinen Abstecher zu einem Shelter gemacht. Das war dann auch die einzige Zeit, wo es kurz geregnet hat. Das Wetter war heute zwar nicht perfekt, aber es war trotzdem eine ganz schöne Runde. Nach der Wanderung, einer Dusche und dem Abendessen konnten wir heute sogar den Abend vollends draußen verbringen. Erst kurz vor 10 Uhr hat es mit Regnen angefangen. Wir sind dann einfach ins Bett.
+
+{% gallery Tag171 %}
+Newsletter-26/newsletter-31.jpg:: Auf dem Track
+Newsletter-26/newsletter-32.jpg:: Auf dem Track
+Newsletter-26/newsletter-33.jpg:: Auf dem Track
+Newsletter-26/newsletter-34.jpg:: Auf dem Track
+{% endgallery %}
+
+
+Tag 172: Samstag
+================
+
+In der Nacht hat es ordentlich angefangen zu regnen. Da war heute mal nix mit zum Sonnenschein aufzuwachen. Aus dem Auto raus tritt man erst mal in eine große Pfütze davor. Nach dem Frühstück hat es netterweise kurz etwas weniger geregnet und wir konnten das nasse Zelt schnell abbauen. Begleitet vom Regen sind wir dann nach Nelson gefahren. Dort haben wir leider ganz knapp einen Dudelsackumzug verpasst. Heute sind hier wohl irgendwelche Dudelsack Meisterschaften. Wir sind dann ein bisschen durch Nelson gelaufen und haben die Kathedrale angeschaut. Danach haben wir uns für ein Kinobesuch als Schlechtwetterprogramm entschieden. Ein richtig süßer kleiner Kinosaal. Wir haben Manchester by the Sea angeschaut. Ein ganz guter Film, hebt aber die Stimmung bei dem schlechten Wetter auch nicht unbedingt. Anstatt in Nelson zu übernachten sind wir dann gleich schon nach Picton gefahren und haben dort eine Nacht mehr gebucht. Einmal weniger das Zelt im Regen auf und abbauen. Zum Abend hab ich dann mal wieder meine Kochkünste ausgepackt und leckere Käsespätzle gekocht.
+
+{% gallery Tag172 %}
+Newsletter-26/newsletter-36.jpg:: Kathedrale in Nelson
+Newsletter-26/newsletter-37.jpg:: Selfie aus der ersten Reihe
+Newsletter-26/newsletter-35.jpg:: Auf dem Weg nach Picton
+Newsletter-26/newsletter-38.jpg:: Käsespätzle
+{% endgallery %}
