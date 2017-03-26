@@ -1,0 +1,82 @@
+---
+layout: [post, print]
+title:  "Neuseeland #28 – Das große Warten"
+date:   2017-03-26 16:00:00 +1200
+categories: neuseeland
+thumbnail: Newsletter-28/newsletter-3.jpg
+---
+
+Die Woche ging irgendwie wieder sehr schnell vorbei, ohne dass wirklich viel passiert ist. Eigentlich hatte ich die große Hoffnung, dass ich mein Auto ganz einfach und schnell für ganz viel Geld wieder loswerde. Leider denken dich das zurzeit noch ganz viele andere Backpacker und es gibt viel mehr Angebot als Nachfrage. Da ich das Geld vom Autoverkauf eigentlich in meine Finanzplanung mit eingebaut habe, fängt es mich schon langsam an zu stressen. Und dann muss ich ja eigentlich auch an einem Ort bleiben bis ich das Auto loshabe. Ganz ungewohnt nachdem man normalerweise nur eine Nacht an einem Ort verbracht hat. Irgendwie wird das aber schon noch hinhauen. Am Montag geht es auf jeden Fall noch mal nach Waiheke Island für meine letzten Tage in Neuseeland.
+
+Viel Spaß beim Lesen.
+
+
+Grüße aus Huntly,
+
+Michael
+
+___
+
+Tag 180: Sonntag
+================
+
+Noch mal die Gelegenheit nutzen und mit Philipp eine Kirche in Neuseeland besuchen. Da uns die Arise Church in Dunedin so gut gefallen hat, sind wir in die Arise Church in Hamilton. Annette hat sich uns angeschlossen und ist auch mitgekommen. Mir persönlich hat es heute aber gar nicht so gut gefallen. Das ist immer das Problem, wenn man auch öfters hinterm Mischpult sitzt. Man kann dann, wenn der Ton schlecht ist. Und der Ton war grauenhaft. So laut, dass es schon ein wenig in den Ohren wehgetan hat. Die Predigt war wieder aus Wellington übertragen. Dieses Mal hat sie sich aber auch ein wenig zu lang hingezogen für meinen Geschmack. Die Gespräche haben sich heute nicht vor dem Gottesdienst ergeben, weil wir auch etwas spät dran waren. Dafür wurden wir nach dem Gottesdienst von allen möglichen Leuten angesprochen. Nach ein paar Gesprächen sind dann Philipp und ich zum Mittagessen aufgebrochen. Mal wieder eine Burgerempfehlung ausprobieren. Gone Burger – Big, Fat and Messy Burgers. Richtig leckere Burger. Wir haben dazu auch die „Dirty Fries“ probiert. Pommes mit Käse und Speck überbacken. Richtig gute Idee. Nach dem leckeren Essen sind wir dann noch in die Hamilton Gardens gefahren. Zum Verdauen haben wir uns erst mal faul auf die Wiese gelegt. Danach haben wir uns dann noch ein wenig die Gärten angesehen. Schon zum Teil echt schön gemacht, aber heute war es mit der Sonne dann auch fast ein bisschen zu heiß. Wir haben dann nicht alles angeschaut und sind zurück nach Huntly. Eigentlich hatte ich fest vor den Newsletter dann noch zu schreiben, aber wir haben uns dann gut Unterhalten und ich bin nicht mehr dazugekommen.
+
+{% gallery Tag180 %}
+Newsletter-28/newsletter-1.jpg:: Arise Church Hamilton
+Newsletter-28/newsletter-2.jpg:: Leckere Burger
+Newsletter-28/newsletter-3.jpg:: Leckere Burger
+Newsletter-28/newsletter-4.jpg:: Hamilton Gardens
+{% endgallery %}
+
+
+Tag 181: Montag
+===============
+
+Als letztes Kulturprogramm für Philipp steht heute noch Auckland auf dem Programm. Die Fahrt nach Auckland ging ganz gut, auch wenn ich in größeren Städten das Fahren immer etwas stressig finde. Wir haben relativ günstig in der Nähe vom Hafen parken können. Als Erstes haben wir uns dann auf den Weg zum War Memorial Museum gemacht. Dort haben wir dann auch erst mal noch eine Kleinigkeit zum Mittag gegessen. Philipp hat sich dann die Ausstellung über den Ersten Weltkrieg angeschaut, die ich schon bei meinem ersten Besuch sehr bewundert habe. Ich hab mir solange dann die neue Sonderausstellung über die Musikgeschichte in Neuseeland angeschaut. Klang leider etwas interessanter, als es nachher war. Wir sind dann wieder zurück zum Hafen gelaufen und uns dort noch mal kurz hingesetzt, bevor es auch schon wieder raus aus Auckland ging. Philipp hat dann seinen Rucksack für morgen gepackt und ich hab meine Bilder für den Newsletter sortiert.
+
+{% gallery Tag181 %}
+Newsletter-28/newsletter-5.jpg:: Auckland CBD
+Newsletter-28/newsletter-6.jpg:: War Memorial Museum
+{% endgallery %}
+
+
+Tag 182: Dienstag
+=================
+
+Heute heißt es Abschied nehmen von Philipp. Nach einem kleinen Frühstück ging es dann morgens auch gleich schon zum Flughafen. Der Verkehr war besser wie erwartet und wir waren mehr als rechtzeitig am Flughafen. Philipp hat kurz eingecheckt und dann haben wir uns noch mal ein zweites Frühstück am Flughafen geholt. Wir haben dann noch ein bisschen gemeinsam gewartet, bevor ich wieder zurückgefahren bin. Das Parken am Flughafen ist auch kein wirkliches Schnäppchen. Nachdem sich noch nicht wirklich jemand für mein Auto interessiert hat, habe ich heute noch mal Bilder ohne das Bett gemacht. Versuche ich es halt mal als normales Auto zu verkaufen. Den restlichen Tag hab ich dann mal wieder viel zu lange für meinen Newsletter gebraucht. Aber er ist fertig und versendet.
+
+
+Tag 183: Mittwoch
+=================
+
+Das große Warten beginnt. Bis das Auto verkauft ist, sitze ich hier jetzt mehr oder weniger fest. Bei Anette zuhause ist aber immerhin nicht der schlechteste Ort zum Festsitzen. Nachdem ich aber immer so viel unterwegs war, habe ich einfach keine große Lust auf rumsitzen und warten. Aber immerhin hab ich zumindest eigentlich genug zu tun, mit dem ich die Zeit sinnvoll nutzen kann. So hab ich heute mit meinem Tagebuch mal wieder aufgeholt und einige der unbeantworteten Nachrichten beantwortet. Und ich kann mich ja auch schon mal auf das Bewerben, wenn ich wieder zurück bin, vorbereiten. Am Nachmittag bin ich dann noch um den See, der um die Ecke liegt, gelaufen. Ein bisschen Bewegung muss halt sein. Am Abend hat mich dann mein HelpX Host von Waiheke Island noch mal angeschrieben und gefragt, ob ich jetzt noch mal kommen will. Ich hab ein bisschen meinem Optimismus mit dem Auto verkaufen erhöht und von Montag bis Freitag werde ich dann wieder auf Waiheke Island verbringen. Am Freitag geht es dann direkt von dort aus zum Flughafen. 
+
+{% gallery Tag183 %}
+Newsletter-28/newsletter-7.jpg:: Lake Puketirini
+Newsletter-28/newsletter-8.jpg:: Lake Puketirini
+{% endgallery %}
+
+
+Tag 184: Donnerstag
+===================
+
+Jetzt geht es aber echt schnell von 100 % Aktivität zu 0 %. Die meiste Zeit sitze ich nur faul rum und komme mit den Dingen, die ich machen will nur sehr langsam voran. Am Nachmittag hab ich dann noch immerhin einen weiteren Wanderweg in der Nähe ausprobiert. Über 1300 Stufen bis man oben ist. Dann noch mal ein paar Stufen und man ist auf einer Aussichtsplattform. Und man hat auch eine schöne Aussicht.
+
+{% gallery Tag184 %}
+Newsletter-28/newsletter-9.jpg:: Start vom Track
+Newsletter-28/newsletter-10.jpg:: Aussicht von Oben
+Newsletter-28/newsletter-11.jpg:: Aussicht von Oben
+Newsletter-28/newsletter-12.jpg:: Aussicht von Oben
+{% endgallery %}
+
+Tag 185: Freitag
+================
+
+Ich dümple weiterhin so vor mich hin. Passieren tut gerade nicht viel. Die meiste sitze oder liege ich nur faul rum, lese und höre Podcasts. Auch bei den Bewerbungsunterlagen komme ich nur sehr langsam voran. Ich war dann froh, am Abend noch Collins, dem Freund von Annette, im Garten helfen zu können. Immerhin noch etwas Produktives getan.
+
+
+Tag 185: Samstag
+================
+
+Im Vergleich zu den letzten Tagen bin ich heute immerhin bei meinen Bewerbungsvorbereitungen weitergekommen. Ein Großteil vom Tag mache ich mir aber auch Gedanken über den Autoverkauf. Bis jetzt hat sich immer noch keiner dafür interessiert oder dafür geboten. Ich hab mittlerweile auch die Hoffnung aufgegeben, dass es mit dem Geld am Ende so hinhaut, wie ich es mir gedacht hatte. Das ist irgendwie alles etwas stressig. Am Nachmittag bin ich dann, vermutlich in der einzigen Zeit, in der es etwas geregnet hat, noch mal um den See gelaufen. Immerhin noch etwas Bewegung. 
